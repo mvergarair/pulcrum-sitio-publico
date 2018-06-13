@@ -1,0 +1,31 @@
+Ticket 220
+
+Enviar estimación
+
+Ticket 221
+
+Nelson, según lo conversado, quedo a la espera de la revisión del ticket 130 para el levantamiento final de este requerimiento.
+
+Ticket 222
+
+Al mostrar la lista de los créditos se puede hacer alguna acción sobre ellas?
+
+
+Estimación Ticket 223 RFC - Crear pestañas nuevas comisiones operaciones
+
+-Frontend MACA: Agregar botón para comisiones y bandeja de créditos sin pagar la comisión.
+-Frontend MACA: Agregar bandeja de créditos que no tienen la comisión pagada y con paginación.
+-Backend MACA: Agregar endpoint que entrega todos los créditos que tenga la comisión sin pagar.
+-Backend MACA: Agregar endpoint que entrega todos los créditos que tenga la comisión pagada y con paginación.
+
+Total HH
+-Gestión 4 HH
+-Backend 12 HH
+-Frontend 14 HH
+-Diseño 0 HH
+-QA 4 HH
+-Experto 1 HH
+
+
+Ticket 223
+
